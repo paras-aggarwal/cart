@@ -1,0 +1,28 @@
+{
+  "pricingRules": [
+    {
+      "item": "A",
+      "offerType": "QUANTITY",
+      "discountType": "FIXED_PRICE",
+      "unitPrice": 40
+    },
+    {
+      "item": "B",
+      "offerType": "QUANTITY",
+      "discountType": "FIXED_PRICE",
+      "offerQuantity": 0,
+      "unitPrice": 50
+    },
+    {
+      "item": "C",
+      "offerType": "TIMED",
+      "discountType": "PERCENTAGE",
+      "unitPrice": 100
+    },
+    {
+      "item": "D",
+      "offerType": "NONE",
+      "discountType": "NONE"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "pricingRules": [
+    {
+      "item": "A",
+      "offerType": "QUANTITY",
+      "discountType": "FIXED_PRICE",
+      "offerPrice": 100,
+      "offerQuantity": 3,
+      "offerPercentage": null,
+      "offerDate": null,
+      "unitPrice": 40
+    },
+    {
+      "item": "B",
+      "offerType": "QUANTITY",
+      "discountType": "FIXED_PRICE",
+      "offerPrice": 80,
+      "offerQuantity": 2,
+      "offerPercentage": null,
+      "offerDate": null,
+      "unitPrice": 50
+    },
+    {
+      "item": "C",
+      "offerType": "NONE",
+      "discountType": "NONE",
+      "offerPrice": null,
+      "offerQuantity": null,
+      "offerPercentage": null,
+      "offerDate": null,
+      "unitPrice": 25
+    },
+    {
+      "item": "D",
+      "offerType": "NONE",
+      "discountType": "NONE",
+      "offerPrice": null,
+      "offerQuantity": null,
+      "offerPercentage": null,
+      "offerDate": null,
+      "unitPrice": 20
+    },
+    {
+      "item": "E",
+      "offerType": "TIMED",
+      "discountType": "PERCENTAGE",
+      "offerPrice": null,
+      "offerQuantity": null,
+      "offerPercentage": 10,
+      "offerDate": "2010-01-01T12:00:00+01:00",
+      "unitPrice": 100
+    }
+  ]
+}
