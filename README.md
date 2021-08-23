@@ -1,5 +1,4 @@
-# idealo-checkout
-> A coding challenge for Software Engineer (Java) role with Idealo
+# cart-checkout
 
 
 ### Things that can be improved
